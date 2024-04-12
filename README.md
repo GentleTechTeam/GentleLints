@@ -11,7 +11,7 @@ GentleLints is a comprehensive lint rule package designed for Flutter and Dart p
 
 ## Installation and usage
 
-1. Add lint_rules_flutter_dart as a dependency in your pubspec.yaml file:
+1. Add gentle_lints as a dependency in your pubspec.yaml file:
 
     ```yaml
     dependencies:
